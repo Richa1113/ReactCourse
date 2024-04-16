@@ -97,6 +97,7 @@ const Comp = () => (
    <DivHeading/>
    <DivHeading></DivHeading>
    {DivHeading()}
+   {DivHeading()}
    </>
 );
 
